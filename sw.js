@@ -2,8 +2,12 @@ const staticCacheName ='v2';
 const assets = [
     '/',
     '/index.html',
-    
-  
+    '/Styles/layout.css',
+    '/Scripts/myScript.js',
+    '/Images/new.jpg',
+    'Font/rimouski_sb-webfont.woff2',
+  'Icons/unknown.png',
+    'Font/Rimouski.css'
    
     
 ];
