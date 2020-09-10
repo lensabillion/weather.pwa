@@ -5,9 +5,9 @@ const assets = [
     '/Styles/layout.css',
     '/Scripts/myScript.js',
     '/Images/new.jpg',
-    'Font/rimouski_sb-webfont.woff2',
-  'Icons/unknown.png',
-    'Font/Rimouski.css'
+    '/Font/rimouski_sb-webfont.woff2',
+  '/Icons/unknown.png',
+    '/Font/Rimouski.css',
    
     
 ];
